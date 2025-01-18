@@ -1,0 +1,3 @@
+C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/build/CMakeFiles/MyProject.dir
+C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/build/CMakeFiles/ZERO_CHECK.dir

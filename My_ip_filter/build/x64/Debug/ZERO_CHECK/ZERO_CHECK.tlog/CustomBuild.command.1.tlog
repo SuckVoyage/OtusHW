@@ -1,0 +1,10 @@
+^C:\USERS\SUCKVOYAGE\DESKTOP\МОИ КОДЫ\IP_FILTER\MY_IP_FILTER\BUILD\CMAKEFILES\4B78C01F1ADE9931F6DB27C7192C642C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter" "-BC:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/build/IP_ADRESS_SORT.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
