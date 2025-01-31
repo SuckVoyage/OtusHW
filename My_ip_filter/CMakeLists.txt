@@ -11,13 +11,13 @@ set (
 	SOURCES
 	My_ip_filter.cpp
 	IpAdress.cpp
-	Version.h
+	Version.cpp
 )
 
 set(
 	HEADERS
 	IpAdress.h
-	Version.cpp
+	Version.h
 )
 
 add_executable(MyProject ${SOURCES} ${HEADERS})

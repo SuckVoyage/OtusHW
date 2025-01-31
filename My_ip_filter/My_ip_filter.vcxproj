@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="IpAdress.cpp" />
+    <ClCompile Include="IpPool.cpp" />
     <ClCompile Include="My_ip_filter.cpp" />
     <ClCompile Include="Version.cpp" />
   </ItemGroup>
@@ -136,6 +137,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IpAdress.h" />
+    <ClInclude Include="IpPool.h" />
     <ClInclude Include="Version.h" />
   </ItemGroup>
   <ItemGroup>
