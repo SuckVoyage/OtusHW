@@ -12,10 +12,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\Version.h">
+    <ClInclude Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\IpAdress.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\IpAdress.h">
+    <ClInclude Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\Version.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
