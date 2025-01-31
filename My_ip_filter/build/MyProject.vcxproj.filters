@@ -7,12 +7,18 @@
     <ClCompile Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\IpAdress.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\IpPool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\Version.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\IpAdress.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\IpPool.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\Version.h">

@@ -3,10 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\build\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1400677A-4612-3D05-92D1-DE5BB51B87A7}|MyProject.vcxproj|C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\My_ip_filter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1400677A-4612-3D05-92D1-DE5BB51B87A7}|MyProject.vcxproj|C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\Version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1400677A-4612-3D05-92D1-DE5BB51B87A7}|MyProject.vcxproj|C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\Version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1400677A-4612-3D05-92D1-DE5BB51B87A7}|MyProject.vcxproj|C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\Version.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1400677A-4612-3D05-92D1-DE5BB51B87A7}|MyProject.vcxproj|C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\IpAdress.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1400677A-4612-3D05-92D1-DE5BB51B87A7}|MyProject.vcxproj|C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\My_ip_filter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,19 +43,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "My_ip_filter.cpp",
-              "DocumentMoniker": "C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\My_ip_filter.cpp",
-              "RelativeDocumentMoniker": "..\\My_ip_filter.cpp",
-              "ToolTip": "C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\My_ip_filter.cpp",
-              "RelativeToolTip": "..\\My_ip_filter.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-31T16:51:34.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Version.cpp",
               "DocumentMoniker": "C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\Version.cpp",
               "RelativeDocumentMoniker": "..\\Version.cpp",
@@ -57,7 +50,46 @@
               "RelativeToolTip": "..\\Version.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-31T16:51:08.824Z",
+              "WhenOpened": "2025-01-31T18:02:09.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Version.h",
+              "DocumentMoniker": "C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\Version.h",
+              "RelativeDocumentMoniker": "..\\Version.h",
+              "ToolTip": "C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\Version.h",
+              "RelativeToolTip": "..\\Version.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T18:02:06.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "My_ip_filter.cpp",
+              "DocumentMoniker": "C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\My_ip_filter.cpp",
+              "RelativeDocumentMoniker": "..\\My_ip_filter.cpp",
+              "ToolTip": "C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\My_ip_filter.cpp",
+              "RelativeToolTip": "..\\My_ip_filter.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T18:01:28.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IpAdress.cpp",
+              "DocumentMoniker": "C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\IpAdress.cpp",
+              "RelativeDocumentMoniker": "..\\IpAdress.cpp",
+              "ToolTip": "C:\\Users\\SuckVoyage\\Desktop\\\u043C\u043E\u0438 \u043A\u043E\u0434\u044B\\Ip_filter\\My_ip_filter\\IpAdress.cpp",
+              "RelativeToolTip": "..\\IpAdress.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T18:01:25.993Z",
               "EditorCaption": ""
             }
           ]

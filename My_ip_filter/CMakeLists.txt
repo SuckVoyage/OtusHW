@@ -7,16 +7,19 @@ configure_file(
 	${CMAKE_CURRENT_BINARY_DIR}/config.h
 )
 
+
 set (
 	SOURCES
 	My_ip_filter.cpp
 	IpAdress.cpp
+	IpPool.cpp
 	Version.cpp
 )
 
 set(
 	HEADERS
 	IpAdress.h
+	IpPool.h
 	Version.h
 )
 

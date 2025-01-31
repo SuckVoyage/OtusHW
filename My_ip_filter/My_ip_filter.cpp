@@ -2,7 +2,7 @@
 
 
 #include "IpPool.h"
-//#include "Version.h"
+#include "Version.h"
 
 
 
@@ -13,13 +13,13 @@
 
 int main()
 {
-	IpPool pool("ip_filter.tsv");
+	IpPool pool("C:\\Users\\SuckVoyage\\Desktop\\мои коды\\Ip_filter\\My_ip_filter\\ip_filter.tsv");
 	pool.print_where();
 	pool.print_where(1);
 	pool.print_where(46, 70);
 	pool.print_where_anyone(46);
 
 
-	//cout << "Version = " << version::version();
+	std::cout << "Version = " << version::version();
 }
 
