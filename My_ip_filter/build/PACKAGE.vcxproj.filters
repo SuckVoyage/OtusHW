@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\Build\CMakeFiles\3e82392eeeca0c1e942f844d8d5012b6\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\Build\CMakeFiles\3e82392eeeca0c1e942f844d8d5012b6\PACKAGE_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>

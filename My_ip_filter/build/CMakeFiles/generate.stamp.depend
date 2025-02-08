@@ -31,6 +31,8 @@ C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake
 C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake
 C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCompilerCommon.cmake
 C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestRCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CPackComponent.cmake
 C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/ADSP-DetermineCompiler.cmake
 C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/ARMCC-DetermineCompiler.cmake
 C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/ARMClang-DetermineCompiler.cmake
@@ -104,9 +106,10 @@ C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.31/Templates/CPackConfig.cmake.in
+C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/Build/CMakeFiles/3.31.4/CMakeCCompiler.cmake
+C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/Build/CMakeFiles/3.31.4/CMakeCXXCompiler.cmake
+C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/Build/CMakeFiles/3.31.4/CMakeRCCompiler.cmake
+C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/Build/CMakeFiles/3.31.4/CMakeSystem.cmake
 C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/CMakeLists.txt
-C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/build/CMakeFiles/3.31.4/CMakeCCompiler.cmake
-C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/build/CMakeFiles/3.31.4/CMakeCXXCompiler.cmake
-C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/build/CMakeFiles/3.31.4/CMakeRCCompiler.cmake
-C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/build/CMakeFiles/3.31.4/CMakeSystem.cmake
 C:/Users/SuckVoyage/Desktop/мои коды/Ip_filter/My_ip_filter/config.h.in

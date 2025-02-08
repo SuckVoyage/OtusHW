@@ -1,0 +1,9 @@
+Architecture: 
+Description: Описание моего проекта
+Maintainer: Данила
+Package: my_project
+Priority: optional
+Section: utils
+Version: 1.0
+Installed-Size: 0
+

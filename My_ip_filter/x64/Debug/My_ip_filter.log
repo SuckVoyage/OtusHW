@@ -1,2 +1,4 @@
-﻿  Version.cpp
-  My_ip_filter.vcxproj -> C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\x64\Debug\My_ip_filter.exe
+﻿  My_ip_filter.cpp
+  Version.cpp
+  Создание кода...
+C:\Users\SuckVoyage\Desktop\мои коды\Ip_filter\My_ip_filter\Version.cpp(2,10): error C1083: Не удается открыть файл включение: config.h: No such file or directory,
